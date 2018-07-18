@@ -1,0 +1,7 @@
+D:\Programming\Grand Circus Bootcamp\Bonus2\Bonus2\bin\Debug\Bonus2.exe.config
+D:\Programming\Grand Circus Bootcamp\Bonus2\Bonus2\bin\Debug\Bonus2.exe
+D:\Programming\Grand Circus Bootcamp\Bonus2\Bonus2\bin\Debug\Bonus2.pdb
+D:\Programming\Grand Circus Bootcamp\Bonus2\Bonus2\obj\Debug\Bonus2.csprojAssemblyReference.cache
+D:\Programming\Grand Circus Bootcamp\Bonus2\Bonus2\obj\Debug\Bonus2.csproj.CoreCompileInputs.cache
+D:\Programming\Grand Circus Bootcamp\Bonus2\Bonus2\obj\Debug\Bonus2.exe
+D:\Programming\Grand Circus Bootcamp\Bonus2\Bonus2\obj\Debug\Bonus2.pdb
